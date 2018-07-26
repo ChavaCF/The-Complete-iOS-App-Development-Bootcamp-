@@ -24,11 +24,11 @@
 
 #### Semana 5
 
-- [ ] Build a iOS Dice App to Learn Swift Programming Basics
+- [x] Build a iOS Dice App to Learn Swift Programming Basics
 
 #### Semana 6
 
-- [ ] Coding Challenge #2 - Swift Data Types, Variables and Arrays
+- [x] Coding Challenge #2 - Swift Data Types, Variables and Arrays
 
 #### Semana 7
 
