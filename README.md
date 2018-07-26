@@ -20,7 +20,7 @@
 
 #### Semana 4
 
-- [ ] Coding Challenge #1 - Using Interface Builder in Xcode
+- [x] Coding Challenge #1 - Using Interface Builder in Xcode
 
 #### Semana 5
 
@@ -200,7 +200,7 @@
 
 #### Semana 49
 
-- [ ]The Complete App Marketing Course - How to Make Money From Your Apps
+- [ ] The Complete App Marketing Course - How to Make Money From Your Apps
 
 #### Semana 50
 
