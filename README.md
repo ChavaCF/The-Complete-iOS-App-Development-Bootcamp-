@@ -32,7 +32,7 @@
 
 #### Semana 7
 
-- [ ] Programming in Swift 4 for Beginners [Using Swift Playgrounds]
+- [x] Programming in Swift 4 for Beginners [Using Swift Playgrounds]
 
 #### Semana 8
 
